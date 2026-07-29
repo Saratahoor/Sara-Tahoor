@@ -1,5 +1,5 @@
 # Hi, I'm Sara Tahoor 👋
-🎓 Final-year BE Student (Computer Science - Data Science)  
+🎓 Computer Science (Data Science) Graduate | Class of 2026                                                                                                          
 💡 Passionate about **Data Science, Generative AI, and Data analysis**  
 🧠 Always exploring **Machine Learning, NLP and LLMs**  
 
@@ -19,3 +19,8 @@
 [LinkedIn](www.linkedin.com/in/sara-tahoor) | 📧 saratahoor13@gmail.com  
 
 ✨ Interested in collaborations, research, and real-world applications of AI & Data – reach out anytime!
+
+## My Data journey
+https://www.instagram.com/data.with.sara
+
+✨To make Data & AI education simple, practical, and accessible so anyone with curiosity can learn, build, and grow with confidence.
